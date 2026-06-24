@@ -1,5 +1,9 @@
 ___*
 
+# Environment variables (contain secrets — never commit)
+.env
+*.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
